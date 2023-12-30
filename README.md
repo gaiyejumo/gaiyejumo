@@ -12,7 +12,7 @@
 
 📚 Data Analytics Engineering Student 
 
-🎓 Ahmadu Bello University
+🎓 Ahmadu Bello University (Graduate)
 
 📍 New York, USA
 

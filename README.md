@@ -8,7 +8,7 @@
 
 💞️ I’m looking forward to collaborate on a project in Artificial Intelligence and all do a project on web 3.0.
 
-📫 How to reach me gbenga.aiyejumo@gmail.com or +2348137781983.
+📫 How to reach me gbenga.aiyejumo@gmail.com or +1 929-433-9302
 
 📚 Data Analytics Engineering Student 
 

@@ -1,6 +1,6 @@
 ## About me [![Website]( https://img.shields.io/badge/-Click%20here-red)]([ (https://sites.google.com/view/gbenga-aiyejumo/home))
 
-👋 Hi, I’m Gbenga, some call me Guz man
+👋 Hi, I’m Gbenga, some call me Guzman
 
 👀 I’m interested in programming, Data analysis, Web development, Cyber Security and Software Development.
 

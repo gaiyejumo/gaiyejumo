@@ -10,7 +10,7 @@
 
 📫 How to reach me aiyejumog@gmail.com or +1 929-433-9302
 
-📚 Cloud Engineer Student 
+📚 Cloud Engineering Student 
 
 🎓 Amazon Cloud Institute
 

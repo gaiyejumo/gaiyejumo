@@ -4,7 +4,7 @@
 
 👀 I’m interested in programming, Data analysis, Web development, Cyber Security and Software Development.
 
-🌱 I’m currently Learning AWS Cloud Practitioner to take the certification exam.
+🌱 I’m currently Learning Salesforce System Administration
 
 💞️ I’m looking forward to collaborate on a project in Artificial Intelligence and all do a project on web 3.0.
 
@@ -12,7 +12,7 @@
 
 📚 Cloud Engineering Student 
 
-🎓 Amazon Cloud Institute
+🎓 Per scholas
 
  📍 New York, USA
 

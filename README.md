@@ -21,8 +21,6 @@
 ## My Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gaiyejumo&show_icons=true&theme=radical)  
 
-[![GitHub Streak](https://streak-stats.demolab.com)](https://git.io/streak-stats)
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gaiyejumo&theme=radical)  
 
 ![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
